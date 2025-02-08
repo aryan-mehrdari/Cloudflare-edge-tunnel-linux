@@ -5,7 +5,7 @@ Capture the cloudflare CDNs and check download speed test and ping and other inf
 following commands:
 ```sh
 sudo apt update
-sudo apt-get install p7zip-full
+sudo apt install p7zip* -y
 git clone https://github.com/aryan-mehrdari/Cloudflare-edge-tunnel-linux.git
 cd Cloudflare-edge-tunnel-linux
 chmod +x cloudflare-cdn-script.sh iptest
