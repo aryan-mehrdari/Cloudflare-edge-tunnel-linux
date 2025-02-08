@@ -3,7 +3,7 @@ Capture the cloudflare CDNs and check download speed test and ping and other inf
 
 ## Installation
 following commands:
-```
+```sh
 git clone https://github.com/aryan-mehrdari/Cloudflare-edge-tunnel-linux.git
 cd Cloudflare-edge-tunnel-linux
 chmod +x cloudflare-cdn-script.sh iptest
